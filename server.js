@@ -6,13 +6,7 @@ const PORT = process.env.PORT || 4762;
 app.use(express.static("public"));
 
 // Dynamic routes for html files
-app.get("/portfolio", (req, res) => {
-    res.sendFile("./views/portfolio.html", { root: __dirname });
-});
-
-app.get("*", (req, res) => {
-    res.sendFile("./views/index.html", { root: __dirname });
-});
+require("./routes")(app);
 
 app.listen(PORT, () => {
     console.log(
