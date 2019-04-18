@@ -16,30 +16,13 @@
           {{/each}}
           <h3>Individual Projects</h3>
           <div class="row">
+            {{#each personal}}
             <div class="col-sm-6 col-md-12 col-lg-6">
-              <a href="https://github.com/Mogkc/GifAPI">
-                <img class="img-fluid port-image" src="assets/imgs/GiphyProject.PNG" alt="A Project Using Giphy">
+              <a href="{{github}}">
+                <img class="img-fluid port-image" src="{{img}}" alt="{{name}}">
               </a>
             </div>
-            <div class="col-sm-6 col-md-12 col-lg-6">
-              <a href="https://github.com/Mogkc/Word-Guess-Game">
-                <img class="img-fluid port-image" src="assets/imgs/WordGuessGame.PNG" alt="An elementary hangman game">
-              </a>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-sm-6 col-md-12 col-lg-6">
-              <a href="https://github.com/Mogkc/sum-the-gems">
-                <img class="img-fluid port-image" src="assets/imgs/CrystalWager.PNG"
-                  alt="A math game using randomization">
-              </a>
-            </div>
-            <div class="col-sm-6 col-md-12 col-lg-6">
-              <a href="https://github.com/Mogkc/liri-node-app">
-                <img class="img-fluid port-image" src="assets/imgs/no-args.PNG"
-                  alt="A console feature for finding music information">
-              </a>
-            </div>
+            {{/each}}
           </div>
       </article>
     </div>

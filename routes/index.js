@@ -18,7 +18,34 @@ module.exports = (app) => {
                 }
             ],
             personal: [
-                {}
+                {
+                    name: "Giphy Displayer",
+                    img: "assets/imgs/GiphyProject.PNG",
+                    github: "https://github.com/Mogkc/GifAPI",
+                    deployed: "",
+                    description: ""
+                },
+                {
+                    name: "Elementary Hangman Game",
+                    img: "assets/imgs/WordGuessGame.PNG",
+                    github: "https://github.com/Mogkc/Word-Guess-Game",
+                    deployed: "",
+                    description: ""
+                },
+                {
+                    name: "Math Game Using Randomization",
+                    img: "assets/imgs/CrystalWager.PNG",
+                    github: "https://github.com/Mogkc/sum-the-gems",
+                    deployed: "",
+                    description: ""
+                },
+                {
+                    name: "Console Feature for Music Information",
+                    img: "assets/imgs/no-args.PNG",
+                    github: "https://github.com/Mogkc/liri-node-app",
+                    deployed: "",
+                    description: ""
+                }
             ]
         });
     });
