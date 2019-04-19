@@ -26,7 +26,7 @@
       "img": "assets/imgs/WordGuessGame.PNG",
       "github": "https://github.com/Mogkc/Word-Guess-Game",
       "deployed": "https://mogkc.github.io/Word-Guess-Game/",
-      "description": "A quick, repeating game that keeps track of user guesses, displaying whatever portions of the word they've already found. The word is chosen from an array of nautical terms."
+      "description": "Quick, repeating game that keeps track of user guesses, displaying whatever portions of the word they've already found. The word is chosen from an array of nautical terms."
     },
     {
       "name": "Math Game Using Randomization",
