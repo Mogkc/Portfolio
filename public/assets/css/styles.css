@@ -78,7 +78,7 @@ main {
 
 #images {
   /* Box-model */
-  padding-top: 15px;
+  padding-top: 5px;
 
   /* Typography */
   text-align: center;
@@ -145,7 +145,12 @@ main {
 
 /* PORTFOLIO PAGE */
 .port-image {
-  margin: 20px auto;
+  margin: 10px auto;
+}
+
+.card {
+  padding: 3px;
+  margin: 5px;
 }
 /* END PORTFOLIO PAGE */
 
