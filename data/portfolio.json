@@ -5,42 +5,42 @@
       "img": "assets/imgs/SolarPredictor.PNG",
       "github": "https://github.com/Mogkc/Project1",
       "deployed": "https://rm5565.github.io/Project1/",
-      "description": ""
+      "description": "Uses a weather and a solar panel API to correlate energy production and make predictions about the next week. "
     },
     {
       "name": "Actualize Yourself Group Project",
       "img": "assets/imgs/ActualizeYourself.PNG",
       "github": "https://github.com/Neuromancer93/project-two",
       "deployed": "https://actualize-yourself.herokuapp.com",
-      "description": ""
+      "description": "Uses express and MySQL to keep track of user's stated goals."
     },
     {
       "name": "Giphy Displayer",
       "img": "assets/imgs/GiphyProject.PNG",
       "github": "https://github.com/Mogkc/GifAPI",
       "deployed": "https://mogkc.github.io/GifAPI/",
-      "description": ""
+      "description": "Displays gifs related to specific words, and allows users to add their own words."
     },
     {
       "name": "Elementary Hangman Game",
       "img": "assets/imgs/WordGuessGame.PNG",
       "github": "https://github.com/Mogkc/Word-Guess-Game",
       "deployed": "https://mogkc.github.io/Word-Guess-Game/",
-      "description": ""
+      "description": "A quick, repeating game that keeps track of user guesses, displaying whatever portions of the word they've already found. The word is chosen from an array of nautical terms."
     },
     {
       "name": "Math Game Using Randomization",
       "img": "assets/imgs/CrystalWager.PNG",
       "github": "https://github.com/Mogkc/sum-the-gems",
       "deployed": "https://mogkc.github.io/sum-the-gems/",
-      "description": ""
+      "description": "Asks user to figure out unknown values through experimentation and use them to sum a specific number."
     },
     {
       "name": "Console Feature for Music Information",
       "img": "assets/imgs/no-args.PNG",
       "github": "https://github.com/Mogkc/liri-node-app",
       "deployed": "",
-      "description": ""
+      "description": "Uses three APIs (Spotify, OMDB, and BandsInTown) to display information based on a user's search."
     }
   ]
 }
