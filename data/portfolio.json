@@ -15,6 +15,13 @@
       "description": "Uses express and MySQL to keep track of user's stated goals."
     },
     {
+      "name": "Elite 4 Group Project",
+      "img": "assets/imgs/Elite4.PNG",
+      "github": "https://github.com/KGorham05/mist",
+      "deployed": "https://pokemon2-cbc.herokuapp.com/",
+      "description": "A MERN application hosting a realtime multiplayer game."
+    },
+    {
       "name": "Giphy Displayer",
       "img": "assets/imgs/GiphyProject.PNG",
       "github": "https://github.com/Mogkc/GifAPI",
@@ -34,13 +41,6 @@
       "github": "https://github.com/Mogkc/sum-the-gems",
       "deployed": "https://mogkc.github.io/sum-the-gems/",
       "description": "Asks user to figure out unknown values through experimentation and use them to sum a specific number."
-    },
-    {
-      "name": "Console Feature for Music Information",
-      "img": "assets/imgs/no-args.PNG",
-      "github": "https://github.com/Mogkc/liri-node-app",
-      "deployed": "",
-      "description": "Uses three APIs (Spotify, OMDB, and BandsInTown) to display information based on a user's search."
     }
   ]
 }
