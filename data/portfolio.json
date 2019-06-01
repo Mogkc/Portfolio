@@ -16,10 +16,10 @@
     },
     {
       "name": "Elite 4 Group Project",
-      "img": "assets/imgs/Elite4.PNG",
+      "img": "assets/imgs/Elite4.png",
       "github": "https://github.com/KGorham05/mist",
       "deployed": "https://pokemon2-cbc.herokuapp.com/",
-      "description": "A MERN application hosting a realtime multiplayer game."
+      "description": "MERN application hosting a realtime multiplayer game."
     },
     {
       "name": "Giphy Displayer",
