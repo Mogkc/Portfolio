@@ -22,6 +22,19 @@
       "description": "MERN application hosting a realtime multiplayer game."
     },
     {
+      "name": "Sumdoku Solver",
+      "img": "assets/imgs/SumdokuSolver.png",
+      "github": "https://github.com/Mogkc/sumdoku-solver",
+      "description": "TDD project to solve normal both normal and math-based sudoku puzzles."
+    },
+    {
+      "name": "Bogglr",
+      "img": "assets/imgs/Bogglr.png",
+      "github": "https://github.com/Mogkc/bogglr",
+      "deployed": "https://bogglr-game.herokuapp.com/",
+      "description": "Word creation game tested with Python Selenium."
+    },
+    {
       "name": "Giphy Displayer",
       "img": "assets/imgs/GiphyProject.PNG",
       "github": "https://github.com/Mogkc/GifAPI",
