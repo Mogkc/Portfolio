@@ -12,6 +12,7 @@
       "name": "Actualize Yourself Group Project",
       "img": "assets/imgs/ActualizeYourself.PNG",
       "github": "https://github.com/Neuromancer93/project-two",
+      "deployed": "https://announcement-changing-hosting.onrender.com",
       "timeline": "Completed by group of four in one week",
       "description": "Uses express and MySQL to keep track of user's stated goals."
     },
@@ -19,6 +20,7 @@
       "name": "Elite 4 Group Project",
       "img": "assets/imgs/Elite4.png",
       "github": "https://github.com/KGorham05/mist",
+      "deployed": "https://announcement-changing-hosting.onrender.com",
       "timeline": "Completed by group of four in one week",
       "description": "MERN application hosting a realtime multiplayer game."
     },
@@ -33,6 +35,7 @@
       "name": "Bogglr",
       "img": "assets/imgs/Bogglr.png",
       "github": "https://github.com/Mogkc/bogglr",
+      "deployed": "https://announcement-changing-hosting.onrender.com",
       "timeline": "Current Project",
       "description": "Word creation game tested with Python Selenium."
     },
