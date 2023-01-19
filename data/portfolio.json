@@ -1,30 +1,6 @@
 {
   "project": [
     {
-      "name": "Solar Predictor Group Project",
-      "img": "assets/imgs/SolarPredictor.PNG",
-      "github": "https://github.com/Mogkc/Project1",
-      "deployed": "https://rm5565.github.io/Project1/",
-      "timeline": "Completed by group of four in one week",
-      "description": "Uses a weather and a solar panel API to correlate energy production and make predictions about the next week. "
-    },
-    {
-      "name": "Actualize Yourself Group Project",
-      "img": "assets/imgs/ActualizeYourself.PNG",
-      "github": "https://github.com/Neuromancer93/project-two",
-      "deployed": "https://announcement-changing-hosting.onrender.com",
-      "timeline": "Completed by group of four in one week",
-      "description": "Uses express and MySQL to keep track of user's stated goals."
-    },
-    {
-      "name": "Elite 4 Group Project",
-      "img": "assets/imgs/Elite4.png",
-      "github": "https://github.com/KGorham05/mist",
-      "deployed": "https://announcement-changing-hosting.onrender.com",
-      "timeline": "Completed by group of four in one week",
-      "description": "MERN application hosting a realtime multiplayer game."
-    },
-    {
       "name": "Sumdoku Solver",
       "img": "assets/imgs/SumdokuSolver.png",
       "github": "https://github.com/Mogkc/sumdoku-solver",
@@ -35,8 +11,7 @@
       "name": "Bogglr",
       "img": "assets/imgs/Bogglr.png",
       "github": "https://github.com/Mogkc/bogglr",
-      "deployed": "https://announcement-changing-hosting.onrender.com",
-      "timeline": "Current Project",
+      "deployed": false,
       "description": "Word creation game tested with Python Selenium."
     },
     {
@@ -59,6 +34,30 @@
       "github": "https://github.com/Mogkc/sum-the-gems",
       "deployed": "https://mogkc.github.io/sum-the-gems/",
       "description": "Asks user to figure out unknown values through experimentation and use them to sum a specific number."
+    },
+    {
+      "name": "Solar Predictor Group Project",
+      "img": "assets/imgs/SolarPredictor.PNG",
+      "github": "https://github.com/Mogkc/Project1",
+      "deployed": false,
+      "timeline": "Completed by group of four in one week",
+      "description": "Uses a weather and a solar panel API to correlate energy production and make predictions about the next week. "
+    },
+    {
+      "name": "Actualize Yourself Group Project",
+      "img": "assets/imgs/ActualizeYourself.PNG",
+      "github": "https://github.com/Neuromancer93/project-two",
+      "deployed": false,
+      "timeline": "Completed by group of four in one week",
+      "description": "Uses express and MySQL to keep track of user's stated goals."
+    },
+    {
+      "name": "Elite 4 Group Project",
+      "img": "assets/imgs/Elite4.png",
+      "github": "https://github.com/KGorham05/mist",
+      "deployed": false,
+      "timeline": "Completed by group of four in one week",
+      "description": "MERN application hosting a realtime multiplayer game."
     }
   ]
 }
